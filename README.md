@@ -18,9 +18,10 @@ Cyber Forensics Investigation: Disk image analysis using Autopsy
 JetPack Joyride: Java game built with OOP concepts and collision handling
 
 🚀 Currently Learning
-Cloud and automation
-Cyber security
-AWS Cloud Practitioner (in progress)
+🧊 Learning AWS Cloud Computing — currently completing the AWS Cloud Practitioner Essentials course
+🔐 Expanding skills in cybersecurity, including threat detection, secure architecture, and incident response
+🗄️ Improving my knowledge of backend development and data modeling
+🧠 Exploring monitoring, observability, and automation tools
 
 📫 Contact
 Email: iBrianyoo@gmail.com
