@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Brian Yoo
 
-<!--
-**rhit-Yoob/rhit-Yoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior Computer Science student with a Cybersecurity minor at Rose-Hulman Institute of Technology. I’m interested in cloud infrastructure, secure system design, and backend development.
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, Java, C, SQL, JavaScript, HTML/CSS
+
+Tech: Git, Windows, Linux, SIEM tools
+
+Focus Areas: Cloud fundamentals (AWS), cybersecurity best practices, data modeling
+
+💼 Experience
+
+Application Engineering Intern — ISSI
+
+Tested and evaluated DRAM modules
+
+Analyzed waveform data to identify performance issues
+
+Presented troubleshooting results to engineering teams
+
+📌 Projects
+
+CD & Vinyl Tracker: Full-stack web app with SQL injection protection
+
+Cyber Forensics Investigation: Disk image analysis using Autopsy
+
+JetPack Joyride: Java game built with OOP concepts and collision handling
+
+🚀 Currently Learning
+
+AWS Cloud Practitioner (in progress)
+
+Monitoring / observability basics
+
+Cloud security and automation
+
+📫 Contact
+
+Email: iBrianyoo@gmail.com
+
+GitHub: rhit-Yoob
