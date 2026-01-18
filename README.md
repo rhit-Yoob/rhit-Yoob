@@ -1,7 +1,7 @@
 👋 Hi, I'm Brian Yoo  
 I'm a junior Computer Science student at Rose-Hulman Institute of Technology pursuing a minor in Cybersecurity and developing a growing interest in cloud computing, infrastructure, and secure systems design. I enjoy building practical, scalable solutions that balance performance with security, and I love learning new technologies through hands-on projects.  
 
-📜Certification
+📜Certification  
 AWS Certified Cloud Practitioner  
 Google Cybersecurity Professional Certificate
 
