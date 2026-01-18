@@ -22,7 +22,7 @@ Cyber Forensics Investigation: Disk image analysis using Autopsy
 JetPack Joyride: Java game built with OOP concepts and collision handling  
 
 🚀 Currently Learning  
-🧊 Learning AWS Certified Solutions Architect - Associate — currently studying for the AWS Certified Solutions Architect - Associate
+🧊 Learning AWS Certified Solutions Architect - Associate — currently studying for the AWS Certified Solutions Architect - Associate  
 🔐 Expanding skills in cybersecurity, including threat detection, secure architecture, and incident response  
 🗄️ Improving my knowledge of backend development and data modeling  
 🧠 Exploring monitoring, observability, and automation tools  
