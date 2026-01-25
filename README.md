@@ -17,7 +17,7 @@ Application Engineering Intern — ISSI
   Presented troubleshooting results to engineering teams  
 
 📌 Projects  
-KodeKloud Cloud Engineering Project:A cloud engineering portfolio demonstrating practical AWS and Azure skills across compute, networking, storage, databases, security, and automation through real-world infrastructure projects.
+KodeKloud Cloud Engineering Project: Hands-on Cloud Engineering
 CD & Vinyl Tracker: Full-stack web app with SQL injection protection  
 Cyber Forensics Investigation: Disk image analysis using Autopsy  
 JetPack Joyride: Java game built with OOP concepts and collision handling  
