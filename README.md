@@ -17,6 +17,7 @@ Application Engineering Intern — ISSI
   Presented troubleshooting results to engineering teams  
 
 📌 Projects  
+KodeKloud Cloud Engineering Project:
 CD & Vinyl Tracker: Full-stack web app with SQL injection protection  
 Cyber Forensics Investigation: Disk image analysis using Autopsy  
 JetPack Joyride: Java game built with OOP concepts and collision handling  
