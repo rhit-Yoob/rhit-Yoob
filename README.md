@@ -8,7 +8,7 @@ Google Cybersecurity Professional Certificate
 🛠️ Skills  
 Languages: Python, Java, C, SQL, JavaScript, HTML/CSS  
 Tech: Git, Windows, Linux, SIEM tools, Cloud  
-Focus Areas: Cloud fundamentals (AWS), cybersecurity best practices, data modeling  
+Focus Areas: Cloud fundamentals (AWS & Azure), cybersecurity best practices, data modeling  
 
 💼 Experience  
 Application Engineering Intern — ISSI  
