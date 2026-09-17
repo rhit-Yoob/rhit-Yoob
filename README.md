@@ -58,6 +58,5 @@
 - **AWS Certified Cloud Practitioner (CCP)**
 - **Google Cybersecurity Professional Certificate**
 - *CompTIA Network+ (In Progress)*
-```[cite: 1, 2, 3]
 
-Make sure to pin your **Home Server** and **KodeKloud** repositories directly below this profile banner so visitors see the source code immediately[cite: 1, 2].
+
